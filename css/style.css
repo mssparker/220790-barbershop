@@ -206,14 +206,15 @@ padding-bottom: 5px;
 
 .catalog-pagination {
   float: right;
-  width: 700px;
-  margin-right: 130px;
+  width: 600px;
+  margin-right: 80px;
   padding-top: 7px;
+  background: yellow;
 }
 
 .catalog-item {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: center;
   width: 220px;
   min-height: 286px;
   margin-right: 20px;
