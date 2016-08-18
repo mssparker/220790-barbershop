@@ -201,14 +201,13 @@ float: right;
 
 }
 
-.catalog-pagination {
-
-}
-
 .catalog {
    float: right;
-   width: 700px;
-   font-size: 0;
+   width: 700px; 
+}
+
+.catalog-pagination {
+font-size: 0;
 }
 
 .catalog-item {
@@ -238,14 +237,11 @@ width: 109px;
 font-size: 16px;
 }
 
-.btn{
+.buy .btn {
   display: inline-block;
   width: 79px;
   background: #000000;
   font-size: 16px; 
-}
-
-.buy a {
   color: #ffffff;
 }
 
